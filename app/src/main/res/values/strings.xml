@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">PANI</string>
+    <string-array name="crop_list">
+        <item>SELECT THE CROP</item>
+        <item>MAIZE</item>
+        <item>WHEAT</item>
+    </string-array>
+    <string name="loading">Loading Please wait</string>
+    <string name="lvma_unable_map">Sorry the map cannot be loaded</string>
+    <string name="zooming">Tracking your location`</string>
+    <string name="three_point">At least select three points</string>
+    <string name="update">Update</string>
+    <string name="req_sowing_date">Please give the sowing date</string>
+    <string name="req_lsp_name">Please select the sowing date</string>
+    <string name="req_crop_name">Please select the crop</string>
+    <string name="req_field_name">Please give a name to the land</string>
+    <string name="try_again">Please try again</string>
+    <string name="data_not_displayed">Data cannot be loaded</string>
+    <string name="problem_current_location">Current Location can not be showed</string>
+    <string name="success_reg">Your registration is successful, Please Log In</string>
+    <string name="login_form_fillup">Fill up the login form</string>
+    <string-array name="lsp_list">
+        <item>Select a LSP</item>
+        <item>LSP 1</item>
+        <item>LSP 2</item>
+        <item>LSP 3</item>
+        <item>LSP 4</item>
+    </string-array>
+    <string name="FCM_PREF" translatable="false">miraj.biid.com.pani_200.fcm_pref</string>
+    <string name="FCM_TOKEN" translatable="false">miraj.biid.com.pani_200.fcm_token</string>
+    <string name="popup_logout">Log Out</string>
+    <string name="popup_edit_profile">Change Profile</string>
+    <string name="splash_text">"Improved Numerical Irrigation Program"</string>
+    <string name="intro_text">"Welcome to the Schedule application. \n This app is designed to provide irrigation schedule and warning messages to farmers and agricultural service providers. \n To get the service, click on the 'Access' button"</string>
+    <string name="intro_enter">"Enter"</string>
+    <string name="splash_i_am">"I am a"</string>
+    <string name="splash_farmer">"Farmer"</string>
+    <string name="splash_LSP">"Local Service Provider "</string>
+    <string name="login_mobile">"Mobile Number "</string>
+    <string name="login_password">"Password "</string>
+    <string name="login_login_btn">"Log In "</string>
+    <string name="login_forget">"Did you forget the password ? "</string>
+    <string name="login_new_user">"New User "</string>
+
+    <string name="reg_mobile">"Mobile Number"</string>
+    <string name="reg_mobile_hint">"Mobile Number"</string>
+    <string name="reg_password">"Password"</string>
+    <string name="reg_password_hint">"Give the password"</string>
+    <string name="reg_confirmPassword">"Confirm The Password"</string>
+    <string name="reg_confirmPassword_hint">"Write the password again"</string>
+    <string name="reg_name">"Username"</string>
+    <string name="reg_name_hint">"Give your full name"</string>
+    <string name="reg_cAddress">"Present Address"</string>
+    <string name="reg_cAddress_hint">"Give us the password"</string>
+    <string name="reg_nid">"National ID Card"</string>
+    <string name="reg_nid_hint">"Give us National ID card's Number"</string>
+    <string name="reg_pumpType">"Type of Pump"</string>
+    <string name="reg_pumpType_hint">"Write the type of pump"</string>
+    <string name="reg_pumpCapacity">"Pump Capacity"</string>
+    <string name="reg_pumpCapacity_hint">"Write the capacity of the Pump"</string>
+    <string name="reg_registration">"Register"</string>
+    <string name="fml_welcome">"Welcome "</string>
+    <string name="fml_field_map">"Add land on the map "</string>
+    <string name="fml_field_manage">"Land Management "</string>
+    <string name="fml_field_call_lsp">"Call the LSP "</string>
+    <string name="fml_msg_lsp">"Message the LSP "</string>
+    <string name="camera_btn">Camera</string>
+    <string name="analyze_btn">Image Analysis</string>
+    <string name="fil_fieldName">"Name Of the Land"</string>
+    <string name="fil_fieldName_hint">"Write the name of the land"</string>
+    <string name="fil_cropList">"List of the crops"</string>
+    <string name="fil_lspList">"List of the LSP"</string>
+    <string name="fil_sowingDate">"Sowing Date"</string>
+    <string name="fil_irrigation_date">"Irrigation Date"</string>
+    <string name="fil_selectSowingDate">"Please Select the sowing date"</string>
+    <string name="fil_viewOnMap">"See the land on the map"</string>
+    <string name="fil_irrOn">"Start Irrigation"</string>
+    <string name="fil_irrOff">"Stop Irrigation"</string>
+    <string name="fil_irrComp">"Did the irrigation end ?"</string>
+    <string name="fil_updateField">"Update the land location"</string>
+    <string name="fil_delete">"Cancel"</string>
+    <string name="fil_prev_irrigation_txt">"Select the previous irrigation date"</string>
+    <string name="fil_prev_irrigation">"Previous irrigation date"</string>
+    <string name="fil_next_irrigation_txt">"Select the next irrigation date"</string>
+    <string name="fil_next_irrigation">"Next irrigation date"</string>
+    <string name="fil_save">"Save it"</string>
+
+    <string name="computing">Counting</string>
+    <string name="pal_photo_select">Select Image</string>
+    <string name="pal_photo_analyze">Analysis</string>
+    <string name="pal_show_result">Result</string>
+
+    <string name="mml_clear">"Delete"</string>
+    <string name="mml_current">"Current Location"</string>
+    <string name="mml_save">"Save"</string>
+
+    <string name="fll_noFieldSaveYet">"No land has been selected"</string>
+    <string name="nidl_date">"Date: 01/02/2018"</string>
+    <string name="nidl_irrAmount">"Amount of Irrigation"</string>
+    <string name="nidl_save">"Save"</string>
+
+    <string name="flcsr_fieldName">"Field Name"</string>
+
+    <string name="fdl_fieldName">"Field Name: "</string>
+    <string name="fdl_smpFieldName">"Land-1"</string>
+    <string name="fdl_farmerName">"Farmer's Name: "</string>
+    <string name="fdl_smpFarmerName">"Jolil Mia"</string>
+    <string name="fdl_address">"Address: "</string>
+    <string name="fdl_smpAddress">"Barisal"</string>
+    <string name="fdl_phone">"Phone Number: "</string>
+    <string name="fdl_cropName">"Name of the Crop: "</string>
+    <string name="fdl_smpCropName">"Maize"</string>
+    <string name="fdl_sowingDate">"Sowing Date "</string>
+    <string name="fdl_smpSowingDate">"01/10/2017"</string>
+    <string name="fdl_map">"Map"</string>
+    <string name="fdl_nextIrrigationDate">"Select the next Irrigation Date"</string>
+    <string name="fdl_callFarmer">"Call the farmer"</string>
+    <string name="fdl_save">"Save"</string>
+
+    <string name="lml_map">"See the Map"</string>
+    <string name="lml_list">"See the list"</string>
+    <string name="lml_schedule">"See the date"</string>
+    <string name="lml_support">"Take Assistance"</string>
+
+    <string name="lcl_noSchedule">"No timeline has been found"</string>
+    <string name="lvla_field_det">Land Description</string>
+
+    <string name="fll_noMessageYet">No irrigation message till now</string>
+    <string name="hello_blank_fragment">No image has been selected</string>
+    <string name="iu_field_image">Land Image</string>
+
+    <string name="result">See the result</string>
+    <string name="position_not_updated">Your location cannot be found</string>
+    <string name="upload">Upload it</string>
+    <string name="regi_mobile">Please give the mobile number</string>
+    <string name="regi_password">Please give the password</string>
+    <string name="regi_name">Please write your name </string>
+    <string name="regi_address"> Please write the address</string>
+    <string name="regi_pump_type"> Please write the pump type</string>
+    <string name="regi_pump_capacity">Please write the pump capacity</string>
+    <string name="regi_not_match"> Both passwords are not same</string>
+    <string name="excuse">Sorry for the trouble !!!!</string>
+    <string name="camera_permission">Need permission to use the camera</string>
+    <string name="upload_image">" images uploaded"</string>
+    <string name="failed_image">" image was not uploaded"</string>
+
+</resources>
